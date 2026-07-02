@@ -1,24 +1,46 @@
-# 🧠 TalentAI — AI Recruiter Platform
+# TalentAI — AI Recruiter Platform
+
+![React](https://img.shields.io/badge/Frontend-React%20%2B%20Vite-61DAFB)
+![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688)
+![Claude](https://img.shields.io/badge/LLM-Claude%203-orange)
+![Status](https://img.shields.io/badge/Status-Live-success)
+![License](https://img.shields.io/badge/License-MIT-blue)
 
 > **Rank hundreds of candidates like a seasoned recruiter — not a keyword matcher.**
-> Powered by Claude (Anthropic), FastAPI, and React/TypeScript.
+>
+> AI-powered recruitment platform that analyzes resumes using semantic matching, behavioral intelligence, dynamic weighted scoring, trust analysis, and LLM-powered recruiter insights.
 
+---
 
-# TalentAI – AI Recruiter Platform
+# 🚀 Live Demo
+> **Note**
+>
+> The application is fully deployed and functional. If the Anthropic API has no available credits, TalentAI automatically falls back to its built-in rule-based reasoning engine to ensure candidate ranking and analysis continue to work.
 
-AI-powered recruitment platform that ranks candidates using semantic reasoning, behavioral intelligence, career analysis, trust scoring, and LLM-powered explanations.
+### 🌐 Frontend
+https://ai-recruiter-platform-two.vercel.app
+
+### ⚙️ Backend API
+https://talentai-backend-vrm2.onrender.com
+
+### 📚 API Documentation (Swagger)
+https://talentai-backend-vrm2.onrender.com/docs
+
+---
+
+# 🎥 Demo Video
+
+▶️ https://youtu.be/AbCdEfGhIjK
+
+---
+
+# 📸 Project Preview
 
 <p align="center">
   <img src="docs/images/DashBoard.png" width="100%">
 </p>
 
-## 🎥 Demo
-
-Watch the complete walkthrough of TalentAI.
-
-▶️ **Watch Demo:** https://youtu.be/AbCdEfGhIjK
 ---
-
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -407,3 +429,13 @@ The codebase follows these principles:
 ---
 
 *Built for demonstration at hackathons and production deployment. MIT License.*
+## Future Improvements
+
+- OAuth login (Google/Microsoft)
+- PostgreSQL for production persistence
+- GitHub profile enrichment
+- Multi-job comparison
+- Team collaboration and recruiter workspaces
+- Calendar integration for interview scheduling
+- Email automation for shortlisted candidates
+- RAG-powered candidate search across historical resumes
