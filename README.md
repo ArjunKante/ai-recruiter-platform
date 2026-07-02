@@ -30,7 +30,7 @@ https://talentai-backend-vrm2.onrender.com/docs
 
 # 🎥 Demo Video
 
-▶️ https://youtu.be/AbCdEfGhIjK
+[![Watch TalentAI Demo](docs/images/DashBoard.png)](https://youtu.be/HaKpPoVvhuo)
 
 ---
 
