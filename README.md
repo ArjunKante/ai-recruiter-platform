@@ -3,7 +3,22 @@
 > **Rank hundreds of candidates like a seasoned recruiter — not a keyword matcher.**
 > Powered by Claude (Anthropic), FastAPI, and React/TypeScript.
 
+
+# TalentAI – AI Recruiter Platform
+
+AI-powered recruitment platform that ranks candidates using semantic reasoning, behavioral intelligence, career analysis, trust scoring, and LLM-powered explanations.
+
+<p align="center">
+  <img src="docs/images/DashBoard.png" width="100%">
+</p>
+
+## 🎥 Demo
+
+Watch the complete walkthrough of TalentAI.
+
+▶️ **Watch Demo:** https://youtu.be/AbCdEfGhIjK
 ---
+
 
 ## Table of Contents
 1. [Overview](#overview)
