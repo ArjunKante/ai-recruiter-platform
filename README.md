@@ -37,8 +37,13 @@ https://talentai-backend-vrm2.onrender.com/docs
 # 📸 Project Preview
 
 <p align="center">
+  <img src="docs/images/landingPage.png" width="100%">
+</p>
+
+<p align="center">
   <img src="docs/images/DashBoard.png" width="100%">
 </p>
+
 
 ---
 
