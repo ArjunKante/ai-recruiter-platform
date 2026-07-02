@@ -1,0 +1,48 @@
+Emma Wilson
+emma.wilson@email.com | +1 (206) 555-0341 | Seattle, WA (Remote preferred)
+github.com/emmawilson | 1,400+ contributions/year | 52 public repositories
+
+EXPERIENCE
+
+Amazon Web Services — Principal Software Engineer | Apr 2019 – Present
+• Led 14-engineer team building recommendation engine serving 2.4B product impressions daily
+• Python (boto3, asyncio), Java; DynamoDB, S3, Kinesis, SQS, Redis (ElastiCache)
+• Kubernetes fleet of 50,000+ pods; designed gRPC API gateway handling 800K req/s
+• Serverless architecture with Lambda for event-driven data pipelines (300M+ events/day)
+• Tiered caching strategy (L1 in-process, L2 Redis, L3 DynamoDB) reduced latency 70% and saved $50M/year in compute
+• Defined technical roadmap and hiring plan for the Recommendations Platform org
+• Promoted from Senior II → Staff → Principal in 4 years
+
+Microsoft — Senior Software Development Engineer | Aug 2016 – Mar 2019
+• Azure Active Directory backend; C#/.NET, CosmosDB, SQL Server, gRPC
+• Authentication service handling 1.4B sign-ins/month across 190 countries
+• Promoted to Senior SDE in 18 months
+• Filed 3 patents on distributed identity management
+
+Founder / CTO — Clarifai Tools (acquired); DataSync SaaS; PulseCheck Analytics | 2013 – 2016
+• Three SaaS products as technical founder; largest grew to 150K users before acquisition ($3.2M exit)
+• Full-stack: Python, Node.js, PostgreSQL, MongoDB, React; teams ranging 2–8 engineers
+• Raised $1.1M seed round; pitched 40+ VCs; led product, engineering, and hiring
+
+SKILLS
+Python, Java, C#/.NET, Node.js, Go, TypeScript
+PostgreSQL, DynamoDB, Redis, MongoDB, CosmosDB, SQL Server
+AWS (ECS, EKS, Lambda, S3, RDS, Kinesis, SQS, ElastiCache), Azure
+Docker, Kubernetes, Terraform, CDK, Jenkins, GitHub Actions
+Kafka, gRPC, GraphQL, REST APIs, Microservices
+System Design, Distributed Systems, ML Infrastructure, Serverless
+Leadership, Technical Strategy, Hiring, Mentoring
+
+EDUCATION
+Stanford University — MS Computer Science | 2013 (specialization: Distributed Systems)
+UC Berkeley — BS Computer Science | 2011, Summa Cum Laude
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Professional (2024)
+Google Cloud Professional Data Engineer (2023)
+
+OPEN SOURCE
+fastapi-cache2 — creator and maintainer (8,200+ stars, 310 contributors)
+boto3 — active contributor (220+ accepted PRs)
+
+AVAILABILITY: 45-day notice (negotiable) | $250K base target | Remote required

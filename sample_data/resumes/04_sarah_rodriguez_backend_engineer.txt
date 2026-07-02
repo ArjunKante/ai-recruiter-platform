@@ -1,0 +1,33 @@
+Sarah Rodriguez
+sarah.rodriguez@email.com | +1 (512) 555-0183 | Austin, TX
+
+EXPERIENCE
+
+Shopify — Backend Engineer | Mar 2022 – Present
+• Merchant API gateway handling 15M+ daily API requests for 2M+ active merchants
+• Node.js/TypeScript, PostgreSQL, Redis (ElastiCache), Docker, AWS (ECS, RDS, ElastiCache)
+• Kafka consumers for async order processing and inventory sync
+• 45% response time improvement through PostgreSQL query optimization and connection pooling
+• REST API redesign reduced average payload size 38%; improved mobile client performance
+• Collaborated with payments team on Stripe Connect integration for multi-currency settlements
+
+StartupCo (B2B SaaS, Series A) — Full Stack Developer → Backend Lead | Jun 2020 – Feb 2022
+• Node.js + React SaaS product for logistics management (0 to 45K users)
+• Led 3-person engineering team; responsible for backend architecture decisions
+• MongoDB, Redis, AWS (EC2, S3, SES); REST APIs; WebSocket for real-time tracking
+
+Independent Contractor | Sep 2019 – May 2020
+• PHP/MySQL web development for local businesses; WordPress customization
+• Built e-commerce site generating $180K/month GMV within 6 months
+
+SKILLS
+Node.js, TypeScript, JavaScript, Python (scripting/automation only)
+PostgreSQL, MongoDB, Redis, MySQL
+Docker, AWS (ECS, RDS, ElastiCache, EC2, S3), Terraform (basic)
+Kafka, REST APIs, GraphQL (read/querying), WebSockets
+Git, GitHub Actions (CI/CD basics)
+
+EDUCATION
+University of Texas at Austin — BS Information Technology | 2019
+
+AVAILABILITY: Immediate (2 weeks notice) | $145K-$160K target | Hybrid preferred

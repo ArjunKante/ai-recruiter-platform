@@ -1,0 +1,39 @@
+Marcus Johnson
+marcus.johnson@email.com | +1 (312) 555-0417 | Chicago, IL
+
+EXPERIENCE
+
+Netflix — Senior Platform Engineer | Jan 2021 – Present
+• Streaming content delivery backend — Java, Python microservices
+• AWS (EC2, RDS, ElastiCache, Kinesis, Lambda), Docker, Kubernetes (EKS), Terraform
+• PostgreSQL (primary OLTP), Redis (session + cache), Cassandra (viewing history at scale)
+• CI/CD with ArgoCD and GitHub Actions; Prometheus + Grafana monitoring
+• Reduced infrastructure cost 25% through right-sizing and Reserved Instance optimization
+• Kafka event streaming for real-time viewing analytics and A/B test instrumentation
+• gRPC internal service communication for low-latency recommendation calls
+
+IBM — Backend Developer → Team Lead | May 2018 – Dec 2020
+• Enterprise Java backend for IBM Cloud analytics product
+• Led 5-person team; on-boarded 3 junior engineers
+• Oracle Database, IBM MQ, REST APIs, Docker
+• IBM Outstanding Technical Contributor Award 2020
+
+Node.js SaaS Startup — Backend Developer | Feb 2017 – Apr 2018
+• Node.js, MongoDB, REST APIs; grew product from 0 to 50K users in 14 months
+
+SKILLS
+Java (primary), Python (secondary), Node.js
+PostgreSQL, Oracle, MongoDB, Cassandra, Redis
+Docker, Kubernetes (EKS), Terraform, ArgoCD, GitHub Actions
+AWS (EC2, RDS, EKS, ElastiCache, Lambda, Kinesis)
+Kafka, gRPC, REST APIs
+System Design, Microservices, CI/CD, Observability (Prometheus/Grafana)
+
+EDUCATION
+Northwestern University — BS Computer Engineering | 2017
+
+CERTIFICATIONS
+AWS Certified Developer – Associate (2023)
+Terraform Associate (2022)
+
+AVAILABILITY: 2 weeks notice | Open to remote | $170K-$190K target

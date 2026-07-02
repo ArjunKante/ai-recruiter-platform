@@ -1,0 +1,32 @@
+David Kim
+david.kim@email.com | +1 (212) 555-0298 | New York, NY
+
+EXPERIENCE
+
+Morgan Stanley — Software Engineer | Aug 2022 – Present
+• Internal trading platform REST APIs in Java Spring Boot
+• Oracle Database, PL/SQL stored procedures, SOAP web services
+• Fixed income data processing; regulatory reporting dashboards
+• Performance optimization of batch jobs (SQL query tuning)
+
+TechConsulting Corp — Junior Developer | Jan 2022 – Jul 2022 (7 months)
+• Short-term consulting engagement: PHP, MySQL CRUD application for client
+• Contract ended; project delivered on time
+
+Software Development Intern | Jun 2021 – Dec 2021 (6 months)
+• Python scripting for data extraction; Excel/VBA automation
+• Internal tools for HR department
+
+SKILLS
+Java, Spring Boot, Python (scripting only), PHP, JavaScript (basic)
+Oracle, MySQL, PL/SQL, SQL Server
+REST APIs (consumer/basic producer), SOAP, XML/JSON
+Git, Maven, Eclipse IDE
+
+EDUCATION
+New York University — BS Computer Science | 2021
+
+CERTIFICATIONS
+AWS Cloud Practitioner (foundational level, 2022)
+
+AVAILABILITY: Immediate | $95K target | Onsite preferred (NYC)

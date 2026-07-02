@@ -1,0 +1,38 @@
+Senior Backend Engineer — Payments Infrastructure
+
+About the Role
+We are scaling our core payments infrastructure platform and need an exceptional Senior Backend Engineer to join our Platform team. You will architect and build the systems that move money globally for millions of merchants.
+
+REQUIRED SKILLS:
+• 5+ years backend engineering experience in production environments
+• Python or Node.js (Python strongly preferred for this role)
+• PostgreSQL — schema design, query optimization, replication
+• Docker and Kubernetes — container orchestration at scale
+• AWS cloud infrastructure (ECS/EKS, RDS, ElastiCache, S3)
+• REST API design and microservices architecture
+• Redis for caching, rate limiting, and session management
+
+NICE TO HAVE:
+• GraphQL and/or gRPC service-to-service communication
+• Apache Kafka or other message queue/event streaming experience
+• CI/CD pipeline ownership (GitHub Actions, ArgoCD, Jenkins)
+• Experience mentoring engineers or leading technical initiatives
+• Open source contributions
+
+RESPONSIBILITIES:
+• Design and build distributed payment processing systems handling millions of transactions/day
+• Own the reliability, scalability, and observability of your services end to end
+• Contribute to technical decisions and architecture discussions
+• Partner with product and data teams on feature development
+• Participate in on-call rotation for your team's services
+• Mentor junior engineers and conduct technical interviews
+
+WHAT WE OFFER:
+• Base: $180,000 – $220,000
+• Equity: 0.05% – 0.15%
+• Location: Remote (US timezones)
+• Notice period: 30 days preferred
+• Benefits: Full medical/dental/vision, 401K match, unlimited PTO
+
+ABOUT US:
+FinTechCo is a Series C payments infrastructure company ($85M raised) processing $1.2B/month across 40 countries. Our engineering team of 65 is distributed across the US and EU.

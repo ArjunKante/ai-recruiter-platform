@@ -1,0 +1,46 @@
+Alex Chen
+alex.chen@email.com | +1 (415) 555-0192 | San Francisco, CA
+github.com/alexchen | linkedin.com/in/alexchen
+
+EXPERIENCE
+
+Stripe — Staff Software Engineer | Jan 2021 – Present
+• Architected payment processing systems handling $2B+ in daily transaction volume across 35 countries
+• Led Python/FastAPI microservices migration from monolith; reduced deployment cycle from 2 weeks to 4 hours
+• Designed multi-region PostgreSQL replication with 99.999% uptime SLA across 6 AWS regions
+• Reduced p99 API latency 85% through distributed Redis caching layer redesign (3ms → 0.4ms)
+• Built Kafka event streaming pipeline for real-time fraud detection serving 12M transactions/day
+• Implemented gRPC service mesh across 15+ microservices with Istio observability
+• Mentored 8 engineers; conducted 200+ technical interviews; defined backend hiring bar
+• Managed Kubernetes (EKS) cluster of 2,400+ pods with zero-downtime rolling deployments
+
+Meta (Facebook) — Senior Software Engineer | Mar 2019 – Dec 2020
+• GraphQL APIs serving 500M+ monthly active users with <10ms p50 latency
+• Led monolith-to-microservices migration for Marketplace team (Node.js, Docker, Kubernetes)
+• MongoDB horizontal sharding architecture for petabyte-scale user content data
+• Reduced infrastructure cost 28% through load-aware autoscaling on GCP
+
+Google — Software Engineer | Jun 2017 – Feb 2019
+• Google Cloud Storage backend performance team; Python, Go, Spanner
+• Automated capacity planning model saving $4M/year in overprovisioned compute
+• Contributed 400+ commits to internal distributed systems framework
+
+SKILLS
+Python, FastAPI, Node.js, Go, JavaScript, TypeScript
+PostgreSQL, MongoDB, Redis, Cassandra, MySQL
+AWS (EKS, RDS, ElastiCache, S3, SQS, Lambda, CloudFront), GCP
+Docker, Kubernetes, Terraform, Helm, ArgoCD
+Kafka, gRPC, GraphQL, REST APIs, Protocol Buffers
+Microservices, Distributed Systems, System Design, High Availability
+
+EDUCATION
+Massachusetts Institute of Technology — BS Computer Science | 2017
+GPA: 3.92 | Relevant coursework: Distributed Systems, Algorithms, Systems Programming
+
+CERTIFICATIONS
+AWS Certified Solutions Architect – Professional (2023)
+Certified Kubernetes Administrator – CKA (2022)
+
+OPEN SOURCE
+fastapi-cache contributor — 480+ commits, co-maintainer (14.2k GitHub stars)
+pyredis-pool creator and maintainer — 2,300+ stars, 180+ contributors

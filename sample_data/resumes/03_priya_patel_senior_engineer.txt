@@ -1,0 +1,43 @@
+Priya Patel
+priya.patel@email.com | +1 (628) 555-0274 | Remote (EST timezone)
+github.com/priyapatel | linkedin.com/in/priyapatel-eng
+
+EXPERIENCE
+
+Uber Technologies — Senior Software Engineer | Feb 2020 – Present
+• Core ride-matching platform serving 12M daily trips across 70+ countries
+• Python, Go, PostgreSQL, Cassandra (400M+ rows), Kafka event streaming, Kubernetes (GKE)
+• Redis caching layer redesign reduced downstream DB load 60%; saved $2.1M/yr infrastructure cost
+• Istio service mesh for observability across 30+ microservices with distributed tracing
+• gRPC internal service APIs; REST APIs for external partners
+• Automated geo-sharding of PostgreSQL reduced query latency by 45% for location-sensitive queries
+• Mentored 4 engineers; conducted quarterly architecture review sessions
+• AWS EKS migration for cross-cloud redundancy (primary GCP, failover AWS)
+
+LinkedIn — Software Engineer → Senior Software Engineer | Aug 2017 – Jan 2020
+• Professional social graph APIs serving 700M+ users; Java, Python, Kafka, Hadoop
+• Promoted from SWE I → SWE II → Senior in 2.5 years (fastest track in the team)
+• Reduced feed ranking API latency 40% through batching and async processing
+
+Amazon — SDE I → SDE II | Jul 2015 – Jul 2017
+• AWS S3 internal reliability team; Java, Go, DynamoDB
+• Promoted SDE I → SDE II in 18 months
+• Contributed to S3 object versioning feature (shipped to all AWS regions)
+
+SKILLS
+Python, Go, Java, Scala
+PostgreSQL, Cassandra, DynamoDB, Kafka (Confluent), Redis
+Kubernetes (GKE, EKS), Docker, Helm, Terraform, ArgoCD
+AWS, GCP (primary), gRPC, REST APIs, Protobuf, GraphQL (limited)
+Istio, Prometheus, Grafana, Jaeger
+Distributed Systems, Microservices, High-Traffic Platform Engineering
+
+EDUCATION
+IIT Bombay — B.Tech Computer Science and Engineering | 2015
+Rank: Top 5% of cohort | Dean's List all 4 years
+
+CERTIFICATIONS
+Certified Kubernetes Application Developer – CKAD (2023)
+Google Cloud Professional Cloud Architect (2022)
+
+AVAILABILITY: Remote only | 30-day notice | $200K base expectation

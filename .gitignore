@@ -1,0 +1,58 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+.venv/
+backend/venv/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# Keep example env files
+!.env.example
+!backend/.env.example
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Uploaded Files
+backend/uploads/*
+
+# Keep the uploads folder itself
+!backend/uploads/.gitkeep
+
+# Vector Index
+backend/vector_index/*
+
+# Keep the vector_index folder itself
+!backend/vector_index/.gitkeep
+
+# VS Code
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# Logs
+*.log
+
+# Operating System
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+frontend/node_modules/
+dist/
+build/
+.next/
